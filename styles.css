@@ -5,9 +5,9 @@ body {
 }
 
 .wrap {
-    font-size: larger;
+    font-size: large;
     width: 650px;
-    margin-top: 100px;
+    margin-top: 200px;
     margin-left: auto;
     margin-right: auto;
 }
