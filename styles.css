@@ -2,14 +2,26 @@ body {
     background-color: #191919;
     font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, sans-serif;
     color: #d4d4d4;
+    width: 100%;
+    height: 100%;
 }
 
-.wrap {
-    font-size: large;
-    width: 650px;
+.body {
+    width: 708px;
+    line-height: 0px;
     margin-top: 200px;
     margin-left: auto;
     margin-right: auto;
+    padding: 0px 3px 0px 3px;
+}
+
+.title {
+    font-size: large;
+}
+
+.wrap {
+    font-size: 16px;
+    line-height: 1.5;
 }
 
 a {
