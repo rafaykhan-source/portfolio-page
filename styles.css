@@ -26,4 +26,9 @@ body {
 
 a {
     color: #9c9c9c;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #d8d8d8;
 }
