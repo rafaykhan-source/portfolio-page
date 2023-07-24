@@ -25,11 +25,11 @@ body {
     line-height: 1.5;
 }
 
-a {
+.introduction-card a {
     color: #9c9c9c;
     transition: 0.3s;
 }
 
-a:hover {
+.introduction-card a:hover {
     color: #d8d8d8;
 }
