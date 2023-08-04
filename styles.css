@@ -2,6 +2,10 @@
     border: 1px dotted red;
 } */
 
+abbr {
+    text-decoration: none;
+}
+
 body {
     color: #d4d4d4;
     background-color: #191919;
